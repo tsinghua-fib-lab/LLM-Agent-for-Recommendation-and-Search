@@ -1,5 +1,19 @@
 # LLM-Agent-for-Recommendation-and-Search
-An index for papers on large language model agents for recommendation and search.
+An index for papers on large language model agents for recommendation and search. 
+
+Please find more details in our survey paper: [A Survey of Large Language Model Empowered Agents for Recommendation and Search: Towards Next-Generation Information Retrieval](https://arxiv.org/abs/2308.14296).
+
+
+Please cite our survey paper if you find this index helpful.
+
+```
+@article{zhang2025survey,
+  title={A Survey of Large Language Model Empowered Agents for Recommendation and Search: Towards Next-Generation Information Retrieval},
+  author={Zhang, Yu and Qiao, Shutong and Zhang, Jiaqi and Lin, Tzu-Heng and Gao, Chen and Li, Yong},
+  journal={arXiv preprint arXiv:2503.05659},
+  year={2025}
+}
+```
 
 # Recommendation
 ![Four domains of LLM Agent's role in recommendation tasks](./figs/Recommend%20Domain.jpg)
