@@ -60,6 +60,7 @@ Please cite our survey paper if you find this index helpful.
 | Simulation | LLM-Powered User Simulator for Recommender System (LLMUserSim) [[paper]](http://ojs.aaai.org/index.php/AAAI/article/view/33456) | Uses large language models as user simulators to generate realistic interaction trajectories for recommender system training |
 | Simulation | SimUSER: Simulating User Behavior with Large Language Models for Recommender System Evaluation [[paper]](https://aclanthology.org/2025.acl-industry.5/) | Proposes a two-phase LLM-based user simulation framework separating preference elicitation and response generation |
 | Simulation | AgentCF++: Memory-enhanced LLM-based Agents for Popularity-aware Cross-domain Recommendations [[paper]](https://dl.acm.org/doi/epdf/10.1145/3726302.3730161) | Introduces memory-enhanced LLM-based user agents to model cross-domain user behaviors for popularity-aware recommendation |
+| Simulation | Beyond Offline A/B Testing: Context-Aware Agent Simulation for Recommender System Evaluation [[paper]](https://arxiv.org/abs/2604.09549) | Proposes an LLM-based user simulation framework leveraging context and thought synthesis to produce realistic RS interactions |
 
 
 
